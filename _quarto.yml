@@ -1,0 +1,21 @@
+project:
+  type: book
+
+
+book:
+  title: "Meine Geschichte"
+  author: Hildi Seematter
+  chapters:
+    - index.qmd
+    # - 1-kapitel.qmd    
+    - 2-kapitel.qmd
+    - 3-kapitel.qmd
+    - 4-kapitel.qmd
+    - 5-kapitel.qmd
+    - impressum.qmd
+
+lang: de-CH
+toc: false
+number-sections: false
+
+  
