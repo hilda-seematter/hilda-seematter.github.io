@@ -7,13 +7,16 @@ book:
   author: Hildi Seematter
   chapters:
     - index.qmd
-    # - 1-kapitel.qmd    
+    - 1-kapitel.qmd    
     - 2-kapitel.qmd
     - 3-kapitel.qmd
     - 4-kapitel.qmd
     - 5-kapitel.qmd
     - impressum.qmd
 
+format: 
+  html:
+    css: style.css
 lang: de-CH
 toc: false
 number-sections: false

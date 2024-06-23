@@ -22,11 +22,11 @@ Hilda Seematter
 
 | Auflage              | Datum       | Stk |
 |:---------------------|:-----------:|----:|
-| 1. Aufage            | 01.09.95    | 15  |
+| 1. Aufage            | 01.09.95    |  15 |
 | Nachdruck            | 1995 - 2001 | 145 |
-| 2. Aufage            | 2002        | 10  |
-| Nachdruck            | 2004 - 2006 | 20  |
-| 3. Aufage            | 01.07.10    | 10  |
-| Nachdruck            | 01.09.14    | 10  |
-| 4. Auflage (online)  | 23.07.24    | 10  |
+| 2. Aufage            | 2002        |  10 |
+| Nachdruck            | 2004 - 2006 |  20 |
+| 3. Aufage            | 01.07.10    |  10 |
+| Nachdruck            | 01.09.14    |  10 |
+| 4. Auflage (online)  | 23.07.24    |   ∞ |
 
