@@ -25,7 +25,9 @@ lang: de
 language: 
   de: 
     title-block-author-single: "Authorin"
+    crossref-fig-title: "Foto"
 toc: false
 number-sections: false
-
+crossref:
+  chapters: false
   

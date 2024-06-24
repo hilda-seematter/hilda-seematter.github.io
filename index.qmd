@@ -5,7 +5,7 @@ Hilda Seematter wurde dieses Jahr 100 Jahre alt. Ein Teil von diesem bewegten Le
 
 Eine Kurzfassung dieser Erzählung wurde 2022 in *Der Bund* Publiziert: [Ein Leben zwischen Saxeten und Missouri](https://www.derbund.ch/amerika-auswanderer-kehrten-zurueck-ins-bergdorf-837242758496)
 
-:::{.callout-note}
+:::{.callout-tip}
 
 Am 30. Juni 2024 wird ein Interview mit Hilda Seematter auf Radio BeO ausgestrahlt: **BeO-Sunntig**: Jeweils 13:30 kurz & knackig – 20:00 das ganze Gespräch. 
 
