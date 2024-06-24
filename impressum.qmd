@@ -1,32 +1,37 @@
 
 # Impressum
 
-**Realisierung**
+## Kontakt
+
+Feedback, Fragen an [meine-geschichte@hilda-seematter.ch](mailto:meine-geschichte@hilda-seematter.ch)
+
+## Realisierung
 
 - Doris Seematter
-- Rosemarie Seematter Anderau
-- Visvanath, Roman Ratnaweera
+- Rosmarie Seematter Anderau
+- Visvanath Ratnaweera
+- Roman Ratnaweera
 - Nils Ratnaweera
  
-**Lektoren**
+## Lektoren
 
 - Max Laenziger (Deutsch)
 - Roman Ratnaweera (Englisch)
 
-**Copyright**
+## Copyright
 
 Hilda Seematter
 
-**Auflagen**
+## Auflagen
 
 
 | Auflage              | Datum       | Stk |
 |:---------------------|:-----------:|----:|
-| 1. Aufage            | 01.09.95    |  15 |
+| 1. Auflage           | 01.09.95    |  15 |
 | Nachdruck            | 1995 - 2001 | 145 |
-| 2. Aufage            | 2002        |  10 |
+| 2. Auflage           | 2002        |  10 |
 | Nachdruck            | 2004 - 2006 |  20 |
-| 3. Aufage            | 01.07.10    |  10 |
+| 3. Auflage           | 01.07.10    |  10 |
 | Nachdruck            | 01.09.14    |  10 |
 | 4. Auflage (online)  | 23.07.24    |   ∞ |
 

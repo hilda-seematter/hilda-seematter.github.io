@@ -4,7 +4,8 @@ project:
 
 book:
   title: "Meine Geschichte"
-  author: Hildi Seematter
+  subtitle: "Die Reise nach Amerika und wieder zurück"
+  author: Hilda Seematter
   chapters:
     - index.qmd
     - 1-kapitel.qmd    
@@ -12,12 +13,18 @@ book:
     - 3-kapitel.qmd
     - 4-kapitel.qmd
     - 5-kapitel.qmd
+    - "---"
     - impressum.qmd
 
 format: 
   html:
     css: style.css
-lang: de-CH
+    email-obfuscation: javascript
+
+lang: de
+language: 
+  de: 
+    title-block-author-single: "Authorin"
 toc: false
 number-sections: false
 

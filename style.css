@@ -7,6 +7,10 @@
     color: "red";
 }
 
+#sec-einleitung > h1{
+    display: none;
+}
+
 .video {
     position: absolute;
     top: 0;
