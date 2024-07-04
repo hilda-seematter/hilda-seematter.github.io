@@ -1,5 +1,7 @@
 
+
 # Einleitung {#sec-einleitung}
+
 
 Hilda Seematter wurde dieses Jahr 100 Jahre alt. Ein Teil von diesem bewegten Leben hat Hilda in einem Buch veröffentlicht: *Meine Geschichte*. In diesem Buch schildert sie, wie sie in jungen Jahren, zusammen mit ihrer Familie, nach Amerika ausgewandert ist. Wie sie dort kleinere und grössere Abenteuer erlebte und später wieder zurück in ihre Heimat nach Saxeten gezogen ist. Eine kurzweilige, humorvolle und charmante Erzählung. 
 
@@ -7,12 +9,15 @@ Eine Kurzfassung dieser Erzählung wurde 2022 in *Der Bund* Publiziert: [Ein Leb
 
 :::{.callout-tip}
 
-Am 30. Juni 2024 wird ein Interview mit Hilda Seematter auf Radio BeO ausgestrahlt: **BeO-Sunntig**: Jeweils 13:30 kurz & knackig – 20:00 das ganze Gespräch. 
+Am 30. Juni 2024 wurde ein Interview mit Hilda Seematter auf Radio BeO ausgestrahlt: **BeO-Sunntig**: Jeweils 13:30 kurz & knackig – 20:00 das ganze Gespräch. 
 
-<https://www.radiobeo.ch/programm/beo-sunntig-hilda-seematter/>
+<https://www.radiobeo.ch>
 
 :::
 
+
+
+<div class="app" id="app"></div>
 
 ::::{.content-visible when-format="html"}
 
@@ -30,3 +35,5 @@ Zudem hat Hilda eine Botschaft an ihre Gastgeber in Amerika. Wir hoffen, dass di
 :::
 
 ::::
+
+
